@@ -2,3 +2,7 @@ Pizza
 pasta 
 pepsi 
 coffee
+Cake
+oreos
+Salad
+Steak
